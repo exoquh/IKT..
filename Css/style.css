@@ -1,0 +1,16 @@
+table,tr,td{
+    border: 1px solid white;
+    border-collapse: separate;
+    text-align: center;
+}
+
+.tesi{ background-color: #09C6A2;color: white;}
+.matek{ background-color: #006481;color: white;}
+.magyar{ background-color: #6C9373;color: white;}
+.angol{ background-color: #D85B5B;color: white;}
+.info{ background-color: #DAB10E;color: white;}
+.tori{ background-color: #FC8C12;color: white;}
+.komp{ background-color: #785489;color: white;}
+.digioszt{ background-color: #1ABC9C;color: white;}
+.nh{ background-color: #DDEBFC; }
+.hon{background-color: #078d82;color: white;}
