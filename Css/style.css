@@ -20,6 +20,11 @@ img:hover{
     
 }
 
+#cool{
+    textalign: center;
+    color: yellow;
+}
+
 img{
     border-radius: 20px;
     width: 300px;
